@@ -265,7 +265,7 @@ Goals:
 * Improve routing decisions
 * Reduce unnecessary escalations
 * Build adaptive behavior over time
-ny API calls are avoided?
+* How many API calls are avoided?
 
 ## Expected Outcomes
 
